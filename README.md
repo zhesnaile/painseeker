@@ -1,3 +1,6 @@
+### THIS IS NOW ARCHIVED
+I found my code messy and wrote a short perl script that does most of what I wanted this program to do.
+
 # painseeker
 Filter comments out of source files on the off chance you might find some expressing the developer's confusion towards the weird behaviour of their code.
 
